@@ -1,4 +1,4 @@
-# Vanilla Plus
+# Vanilla Ultra Performance
 Welcome to the project files for the Vanilla Ultra Performance Minecraft modpack.
 ***
 ## How to work on the modpack
