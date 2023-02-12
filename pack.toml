@@ -1,12 +1,12 @@
 name = "Vanilla Ultra Performance"
 author = "Wizard Dragon"
-version = "0.1.0"
+version = "0.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f750ac3c7782490b88ae286919f0584d9f95dc8be5ba5fded5b6945a9ea81715"
+hash = "bd5de55231a473526051649039cfc7b27954491bee411e3d60c39bf323742be7"
 
 [versions]
 minecraft = "1.19.3"

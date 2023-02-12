@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "57a8e4ea389f17fb4a75d8120c9511fed85958bc952e0a32fabc7c3c9138e368"
+hash = "3451be7d31e029ff21bb01fe3a3f39e81060c5df7d079e33310d74d09254e82b"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "413ce716e1ce679ff1097f1732023a5457ef5ec7b512d247ef087aeefd82d19b"
+hash = "9f7ce104c709103550148f4ff79acd17f9f93901224166445de1052b681c09da"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/vulkanmod.pw.toml"
-hash = "7df678f03448e62f99f31ff1fb597adf0bf20140e016547cc4542708c4646d31"
+hash = "bcae283b1a8ee378c5c7beccde0f681c3bb68160f7ddd251f52d978be11a8b75"
 metafile = true
 
 [[files]]
